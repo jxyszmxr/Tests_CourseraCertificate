@@ -1,1 +1,1 @@
-# Tests_CourseraCertificate
+# Testing repository
